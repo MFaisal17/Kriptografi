@@ -1,0 +1,2 @@
+# Kriptografi
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=v9PKbf7Zw40i
